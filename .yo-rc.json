@@ -1,0 +1,11 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "TDD for DevOps",
+    "packageVersion": "0.0.0",
+    "revealTheme": "black",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "aetherical",
+    "githubRepository": "tdd-for-devops"
+  }
+}
