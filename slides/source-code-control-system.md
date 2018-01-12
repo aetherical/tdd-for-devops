@@ -1,6 +1,6 @@
 ##  Source Code Control System
 
-This is a new Markdown slide
+![Git is for Wimps](images/git-for-wimps.jpg)
 
 note:
     Put your speaker notes here.
