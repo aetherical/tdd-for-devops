@@ -30,10 +30,6 @@
         "attr": {}
     },
     {
-        "filename": "traverse.md",
-        "attr": {}
-    },
-    {
         "filename": "why.md",
         "attr": {
             "data-background-image": "images/Woody_Woodpecker.png",
@@ -76,7 +72,6 @@
     {
         "filename": "source-code-control-system.md",
         "attr": {
-            "data-background": "#ff0000"
         }
     },
     {
@@ -119,6 +114,10 @@
         "filename": "practice.md",
         "attr": {
         }
+    },
+    {
+        "filename": "traverse.md",
+        "attr": {}
     },
     {
         "filename": "one-does-not-simply-test-shell-scripts.md",
