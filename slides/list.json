@@ -1,1 +1,135 @@
-["index.md"]
+[
+    "index.md",
+    {
+        "filename": "twenty-percent-more-awesome.md",
+        "attr": {}
+    },
+    {
+        "filename": "who-am-i.md",
+        "attr": {}
+    },
+    {
+        "filename": "disclaimer.md",
+        "attr": {}
+    },
+    {
+        "filename": "theory.md",
+        "attr": {
+        }
+    },
+    {
+        "filename": "what-is-tdd.md",
+        "attr": {}
+    },
+    {
+        "filename": "what-is-devops.md",
+        "attr": {}
+    },
+    {
+        "filename": "buzzword-compliant.md",
+        "attr": {}
+    },
+    {
+        "filename": "traverse.md",
+        "attr": {}
+    },
+    {
+        "filename": "why.md",
+        "attr": {
+            "data-background-image": "images/Woody_Woodpecker.png",
+            "data-background-size": "contain",
+            "data-background-position": "left"
+        }
+    },
+    {
+        "filename": "three-ways.md",
+        "attr": {}
+    },
+    {
+        "filename": "three-ways-of-devops.md",
+        "attr": {}
+    },
+    {
+        "filename": "first-way.md",
+        "attr": {}
+    },
+    {
+        "filename": "second-way.md",
+        "attr": {}
+    },
+    {
+        "filename": "third-way.md",
+        "attr": {}
+    },
+    {
+        "filename": "infrastructure-as-code.md",
+        "attr": {}
+    },
+    {
+        "filename": "tdd-cycle.md",
+        "attr": {}
+    },
+    {
+        "filename": "how-i-think-it-all-fits-together.md",
+        "attr": {}
+    },
+    {
+        "filename": "source-code-control-system.md",
+        "attr": {
+            "data-background": "#ff0000"
+        }
+    },
+    {
+        "filename": "configuration-management-tools.md",
+        "attr": {
+            "data-background": "#ff0000"
+        }
+    },
+    {
+        "filename": "infrastructure-management-tools.md",
+        "attr": {
+            "data-background": "#ff0000"
+        }
+    },
+    {
+        "filename": "unit-test-tools.md",
+        "attr": {
+            "data-background": "#ff0000"
+        }
+    },
+    {
+        "filename": "mocking.md",
+        "attr": {
+            "data-background": "#ff0000"
+        }
+    },
+    {
+        "filename": "continuous-integration.md",
+        "attr": {
+            "data-background": "#ff0000"
+        }
+    },
+    {
+        "filename": "improvement.md",
+        "attr": {
+            "data-background": "#ff0000"
+        }
+    },
+    {
+        "filename": "practice.md",
+        "attr": {
+        }
+    },
+    {
+        "filename": "one-does-not-simply-test-shell-scripts.md",
+        "attr": {}
+    },
+    {
+        "filename": "think-outside-the-box.md",
+        "attr": {}
+    },
+    {
+        "filename": "need-good-tests.md",
+        "attr": {}
+    }
+]
