@@ -12,10 +12,10 @@
         "filename": "disclaimer.md",
         "attr": {}
     },
+    "modern-devops-infrastructure.md",
     {
         "filename": "theory.md",
-        "attr": {
-        }
+        "attr": {}
     },
     {
         "filename": "what-is-tdd.md",
@@ -53,6 +53,7 @@
         "filename": "second-way.md",
         "attr": {}
     },
+    "short-feedback.md",
     {
         "filename": "third-way.md",
         "attr": {}
@@ -65,64 +66,58 @@
         "filename": "tdd-cycle.md",
         "attr": {}
     },
+    "there-can-be-only-one.md",
+    "one-true-tool.md",
     {
         "filename": "how-i-think-it-all-fits-together.md",
         "attr": {}
     },
     {
         "filename": "source-code-control-system.md",
-        "attr": {
-        }
+        "attr": {}
     },
+    "what-belongs-in-source-control.md",
     {
         "filename": "configuration-management-tools.md",
-        "attr": {
-            "data-background": "#ff0000"
-        }
+        "attr": {}
     },
     {
         "filename": "infrastructure-management-tools.md",
-        "attr": {
-            "data-background": "#ff0000"
-        }
+        "attr": {}
     },
     {
         "filename": "unit-test-tools.md",
-        "attr": {
-            "data-background": "#ff0000"
-        }
+        "attr": {}
     },
+    "test-all-the-things.md",
+    "lint.md",
+    "configuration.md",
     {
         "filename": "mocking.md",
-        "attr": {
-            "data-background": "#ff0000"
-        }
+        "attr": {}
     },
     {
         "filename": "continuous-integration.md",
-        "attr": {
-            "data-background": "#ff0000"
-        }
+        "attr": {}
     },
     {
         "filename": "improvement.md",
-        "attr": {
-            "data-background": "#ff0000"
-        }
+        "attr": {}
     },
     {
         "filename": "practice.md",
-        "attr": {
-        }
+        "attr": {}
     },
     {
         "filename": "traverse.md",
         "attr": {}
     },
+    "demo-testing-a-config.md",
     {
         "filename": "one-does-not-simply-test-shell-scripts.md",
         "attr": {}
     },
+    "demo-testing-and-mocking-a-shell-script.md",
     {
         "filename": "think-outside-the-box.md",
         "attr": {}
@@ -130,5 +125,12 @@
     {
         "filename": "need-good-tests.md",
         "attr": {}
-    }
+    },
+    "big-list-of-tools.md",
+    "big-list-of-tools-configuration-management.md",
+    "big-list-of-tools-infrastructure-automation.md",
+    "big-list-of-tools-unit-test.md",
+    "big-list-of-tools-mocking.md",
+    "big-list-of-tools-continuous-integration.md",
+    "thank-you.md"
 ]

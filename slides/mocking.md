@@ -1,6 +1,7 @@
-##  Mocking
+![They thought mocking was just for source code!](images/mocking-just-for-source-code.jpg)
 
-This is a new Markdown slide
+<p class="fragment">Part of the Second Way</p>
+
 
 note:
     Put your speaker notes here.

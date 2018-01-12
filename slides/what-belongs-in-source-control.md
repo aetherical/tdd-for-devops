@@ -1,8 +1,4 @@
-##  Infrastructure Automation Tools
-
-* Still a relatively new topic
-* Tools are settling out
-
+![What Belongs in Source Control](images/whats-checked-into-source-control.png)
 <p class="fragment">Part of the First Way</p>
 
 
