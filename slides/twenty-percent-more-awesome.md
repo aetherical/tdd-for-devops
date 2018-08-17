@@ -1,6 +1,6 @@
 ## Why DevOps Needs TDD
 
-![20 Percent Cooler](/images/20_percent_cooler_by_bronybackrounds-sm.png)
+![20 Percent Cooler](images/20_percent_cooler_by_bronybackrounds-sm.png)
 
 note:
     Put your speaker notes here.
