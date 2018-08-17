@@ -1,9 +1,11 @@
 [
     "index.md",
+    "cats-stole-my-pointer.md",
     {
         "filename": "twenty-percent-more-awesome.md",
         "attr": {}
     },
+    "stability-is-the-new-sexy.md",
     {
         "filename": "who-am-i.md",
         "attr": {}
@@ -12,7 +14,10 @@
         "filename": "disclaimer.md",
         "attr": {}
     },
-    "modern-devops-infrastructure.md",
+    {
+        "filename": "buzzword-compliant.md",
+        "attr": {}
+    },
     {
         "filename": "theory.md",
         "attr": {}
@@ -26,10 +31,6 @@
         "attr": {}
     },
     {
-        "filename": "buzzword-compliant.md",
-        "attr": {}
-    },
-    {
         "filename": "why.md",
         "attr": {
             "data-background-image": "images/Woody_Woodpecker.png",
@@ -37,6 +38,7 @@
             "data-background-position": "left"
         }
     },
+    "modern-devops-infrastructure.md",
     {
         "filename": "three-ways.md",
         "attr": {}
